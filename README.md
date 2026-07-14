@@ -16,7 +16,7 @@ Updates & New Features
 - Modern Report Generation for Electrical Cost Estimate, Sleek and Clean
 
 ### 07/07 - 07/09
-Analyzed all datasheets that Caltrans provided, thousands of items, documents, and item codes to consider. Especially keeping track the prices. This proved challenging as I had to consider what the schema of the database would look like. There is also limitations of relying on a backend server which Caltrans does not really like. So it has to be Desktop App, and can migrate to any other databases.
+Analyzed all datasheets that Caltrans provided, thousands of items, documents, and item codes to consider. Especially keeping track of the item prices. This proved challenging as I had to consider what the schema of the database would look like. There is also limitations of relying on a backend which Caltrans does not really like. So it had to be a Desktop App and the capability to migrate it to any other databases.
 
 ### 07/07/26
 Development started at this date. 07/06 was the start of the planning stage on how the application itself would benefit the electrical design team, and how do we streamline tedious and repetitive process without it becoming a burden of a tool.
